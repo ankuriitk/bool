@@ -2,5 +2,6 @@
 mingw/
 bison-*/
 ragel-*/
+extensions/
 .project
 *~

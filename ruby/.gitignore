@@ -10,5 +10,9 @@ ext/bool_ext/ast.*
 ext/bool_ext/lexer.*
 ext/bool_ext/parser.*
 ext/bool_ext/unused.*
+ext/bool_ext/.RUBYARCHDIR.time
+ext/bool_ext/Makefile
+ext/bool_ext/bool_ext.bundle
+ext/bool_ext/ext.o
 lib/bool_ext.so
 pkg/
